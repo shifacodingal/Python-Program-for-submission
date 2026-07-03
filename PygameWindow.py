@@ -4,7 +4,8 @@ import pygame
 # Initialize required modules
 pygame.init()  
 
-# Setup window geometry
+# Setup window geom
+# etry
 screen = pygame.display.set_mode((400,500))  
 
 # Create a loop to run till the game is quit by the user
